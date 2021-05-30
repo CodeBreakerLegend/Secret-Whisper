@@ -251,6 +251,7 @@ def quit_program():
 # Create the root GUI window.
 root_window = tkinter.Tk()
 root_window.geometry("400x400")
+root_window.title("Secret Whisper")
 # Define window size
 # window_width = 500
 # window_heigth = 500
