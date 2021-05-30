@@ -23,7 +23,7 @@
   b. 2-Step Verification is only set up for security keys.
   c. Your account is through work, school, or other organization.
   d. You turned on Advanced Protection.
-4. At the bottom, choose Select app and choose the app you using and then Select device and choose the device you’re using and then Generate.
+4. At the bottom, choose Select app and choose the app you using(Select Other option) and enter "Secret Whisper" and then Generate.
 5. Follow the instructions to enter the App Password. The App Password is the 16-character code in the yellow bar on your device.
 6. Copy paste and save the password in safe place as it is auto generated and only password for you to login.
 7. Tap Done.
